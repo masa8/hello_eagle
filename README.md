@@ -11,7 +11,7 @@ http://www.cadsoftusa.com/download-eagle/
 
 
 ## Make a schematic  
-<img src="img/schematic.png" width="400px" >
+<img src="img/schematic.png" width="400px" ><br>
  Control-Click eagle folder in Projects on Control Panel  
  Select New Project on the context menu  
  Name your project name  
@@ -32,7 +32,7 @@ http://www.cadsoftusa.com/download-eagle/
  Select Wire Button and connect them by  clicking to draw and double-clicking for finishing  
  Click Generate/Swicth To Board Button   
 ## Make a board
-<img src="img/board.png" width="400px" >
+<img src="img/board.png" width="400px" ><br>
  Put elements within the area  
  Select AutoRoute Button and Click Continue.. Button  
  Click End Job Button   
@@ -44,16 +44,16 @@ http://www.cadsoftusa.com/download-eagle/
  Click Rect 
  Click on drawing area to draw 0.08x0.08 Rect.   
  Move them to PAD positions to make it easy to solder.   
-
+ Add text if you want.  
  Save  
 ## Export Garber Data 
-Click excellon.cam from CAM Jobs on Control Panel
+Click excellon.cam from CAM Jobs on Control Panel  
 Select File > Open > Board > your board file(.brd) saved above.  
 Click Process Job  
 Click x button  
-Click gerb274x[2L].cam  (or any you want) 
-Select File > Open > BOard > your board file(.brd) saved above.
-Click Process Job
+Click gerb274x[2L].cam  (or any you want)  
+Select File > Open > BOard > your board file(.brd) saved above.  
+Click Process Job  
 
 ### (Option) Garber File Format: Replace \n with \r\n  
 If your export files need to be used on Windows  
