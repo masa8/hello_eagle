@@ -11,6 +11,7 @@ http://www.cadsoftusa.com/download-eagle/
 
 
 ## Make a schematic  
+<img src="img/schematic.png" width="400px" >
  Control-Click eagle folder in Projects on Control Panel  
  Select New Project on the context menu  
  Name your project name  
@@ -31,6 +32,7 @@ http://www.cadsoftusa.com/download-eagle/
  Select Wire Button and connect them by  clicking to draw and double-clicking for finishing  
  Click Generate/Swicth To Board Button   
 ## Make a board
+<img src="img/board.png" width="400px" >
  Put elements within the area  
  Select AutoRoute Button and Click Continue.. Button  
  Click End Job Button   
