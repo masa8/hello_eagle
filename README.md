@@ -1,5 +1,5 @@
 # Hello Eagle
-Make first led circuit with Eagle<br>
+Make your first led circuit with Eagle<br>
 <img src="img/hello_eagle.jpg" width="400px" >
 
 ## Prerequisite
