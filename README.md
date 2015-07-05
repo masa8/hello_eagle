@@ -1,4 +1,4 @@
 # Hello Eagle
 
-<img src="img/hello_eagle.jpg" style="width:100;">
+<img src="img/hello_eagle.jpg" style="width:40;">
  
