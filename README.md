@@ -1,7 +1,10 @@
 # Hello Eagle
-Make first led circuit with Eagle 
+Make first led circuit with Eagle<br>
 <img src="img/hello_eagle.jpg" width="400px" >
 
+## Prerequisite
+ OS:Mac  
+ 
 ## Install 
 Install Eagle
 http://www.cadsoftusa.com/download-eagle/
@@ -36,7 +39,7 @@ Click excellon.cam from CAM Jobs on Control Panel
 Select File > Open > Board > your board file(.brd) saved above.  
 Click Process Job  
 Click x button  
-Click gerb274x[2L].cam  
+Click gerb274x[2L].cam  (or any you want) 
 Select File > Open > BOard > your board file(.brd) saved above.
 Click Process Job
 
@@ -44,8 +47,10 @@ Click Process Job
 If your export files need to be used on Windows  
 I do just like following:  
 brew install unix2dos  
-cd <your project folder >  
-ls | grep <your project name> | xargs unix2dos  
-od -c <a your file>  for checking there is \r in your file.  
+cd [your project folder]  
+ls | grep [your project name] | xargs unix2dos  
+od -c [a your file name]  for checking there is \r in your file.  
  
- 
+## c.f.
+* gerb274x[2L].com http://www.p-ban.com/gerber/eagle.html  
+
