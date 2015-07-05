@@ -1,4 +1,4 @@
 # Hello Eagle
 
-![hello eagle img](img/hello_eagle.jpg =100x100)
+<img src="img/hello_eagle.jpg" style="withd:100;">
  
