@@ -31,8 +31,18 @@ http://www.cadsoftusa.com/download-eagle/
  Select Wire Button and connect them by  clicking to draw and double-clicking for finishing  
  Click Generate/Swicth To Board Button   
 ## Make a board
- Put elements within the aria
- Select AutoRoute Button and Click Continue.. Button and Click End Job Button  
+ Put elements within the area  
+ Select AutoRoute Button and Click Continue.. Button  
+ Click End Job Button   
+ Click Info Button and Click red line on the draweing area  
+ Change Width to 0.04  
+ Click Grid  
+ Change the size to 0.04  
+ Select On from Display section  
+ Click Rect 
+ Click on drawing area to draw 0.08x0.08 Rect.   
+ Move them to PAD positions to make it easy to solder.   
+
  Save  
 ## Export 
 Click excellon.cam from CAM Jobs on Control Panel
