@@ -52,7 +52,7 @@ Select File > Open > Board > your board file(.brd) saved above.
 Click Process Job  
 Click x button  
 Click gerb274x[2L].cam  (or any you want)  
-Select File > Open > BOard > your board file(.brd) saved above.  
+Select File > Open > Board > your board file(.brd) saved above.  
 Click Process Job  
 
 ### (Option) Garber File Format: Replace \n with \r\n  
