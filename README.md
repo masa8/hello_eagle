@@ -44,7 +44,7 @@ http://www.cadsoftusa.com/download-eagle/
  Move them to PAD positions to make it easy to solder.   
 
  Save  
-## Export 
+## Export Garber Data 
 Click excellon.cam from CAM Jobs on Control Panel
 Select File > Open > Board > your board file(.brd) saved above.  
 Click Process Job  
@@ -53,7 +53,7 @@ Click gerb274x[2L].cam  (or any you want)
 Select File > Open > BOard > your board file(.brd) saved above.
 Click Process Job
 
-### (Option) Replace \n with \r\n 
+### (Option) Garber File Format: Replace \n with \r\n  
 If your export files need to be used on Windows  
 I do just like following:  
 brew install unix2dos  
